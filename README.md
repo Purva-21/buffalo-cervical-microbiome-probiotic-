@@ -144,16 +144,6 @@ source("scripts/08_reproductive_outcomes.R") # Clinical outcomes
 ## Data Availability
 
 Raw sequencing data have been deposited in NCBI SRA under BioProject accession number: **[PENDING]**
-
-## Citation
-
-If you use this code or data, please cite:
-
-```
-Gohil P, Patel K, Nathani B, et al. (2025). Microbial Refrains of Recovery: 
-Probiotic-Driven Remodeling of the Cervical Microbiome in Postpartum 
-Bubalus bubalis. [Journal Name]. DOI: [pending]
-```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -164,6 +154,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Sanoda Dehgam Animal Ambulatory Hospital
 - All participating dairy farms
 
-## Contact
 
-For questions or issues, please open an issue on this repository or contact the corresponding authors.
